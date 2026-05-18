@@ -1,0 +1,5 @@
+medico_id,nombre_medico,especialidad,dias_atencion
+M001,Dra. Elena Rostova,Endocrinología Pediátrica,Lunes a Viernes
+M002,Dr. Alan Grant,Diabetología Adultos,Lunes a Viernes
+M003,Dra. Sarah Connor,Endocrinología General,Sábado
+M004,Dr. Henry Wu,Trastornos Metabólicos,Domingo

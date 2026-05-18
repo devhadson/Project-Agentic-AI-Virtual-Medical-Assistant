@@ -1,0 +1,5 @@
+fecha_registro,patient_id,paciente,glucosa,categoria,detalle_reserva
+2026-05-17 20:25:26,45678912,Carlos Mendoza,45.0,EMERGENCIA,"NOTIFICACIÓN MÉDICA DISPARADA: Paciente con hipoglucemia grave (45.0 mg/dL), presenta dolor de cabeza y somnolencia. Hace ejercicio 2 veces por semana y ha consumido alcohol recientemente en una reunión familiar."
+2026-05-17 20:29:23,12345678,Juan Pérez,110.0,AGENDAR CITA,"Paciente: Juan Pérez, Médico: Dr. Alan Grant, Especialidad: Diabetología Adultos, Día: Lunes, Hora: 15:00"
+2026-05-17 20:31:50,45678912,Carlos Mendoza,45.0,EMERGENCIA,"NOTIFICACIÓN MÉDICA DISPARADA: Paciente con hipoglucemia grave (45.0 mg/dL), presenta dolor de cabeza y confusión. Realiza ejercicio varias veces a la semana y ha consumido alcohol recientemente en una reunión familiar."
+2026-05-17 23:44:31,12345678,Juan Pérez,110.0,AGENDAR CITA,"Paciente: Juan Pérez, Médico: Dr. Alan Grant, Especialidad: Diabetología Adultos, Día: Viernes, Hora: 13:00"
