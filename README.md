@@ -2,24 +2,15 @@
 ## Desarrollo de un Agente Inteligente con Memoria y Arquitectura Justificada
 
 ## Contenido
-[1. OBJETIVO GENERAL](#1-objetivo-general)
-
-[2. ALCANCE DEL PROYECTO](#2-alcance-del-proyecto)
-
-[3. PROBLEMA O DOLOR DEL NEGOCIO](#3-problema-o-dolor-del-negocio)
-
-[4. ANALISIS PREVIO](#4-analisis-previo)
-
-[5. ARQUITECTURA DE SOLUCION](#5-arquitectura-de-solucion)
-
-[6. COMPONENTES QUE DEBEN EXPLICARSE](#6-componentes-que-deben-explicarse)
-
-[7. CONTROLES MINIMOS ESPERADOS](#7-controles-minimos-esperados)
-
-[8. LANGSMITH](#8-langsmith)
-
-[9. ENTREGABLES](#9-entregables)
-
+[1. OBJETIVO GENERAL](#1-objetivo-general)<br>
+[2. ALCANCE DEL PROYECTO](#2-alcance-del-proyecto)<br>
+[3. PROBLEMA O DOLOR DEL NEGOCIO](#3-problema-o-dolor-del-negocio)<br>
+[4. ANALISIS PREVIO](#4-analisis-previo)<br>
+[5. ARQUITECTURA DE SOLUCION](#5-arquitectura-de-solucion)<br>
+[6. COMPONENTES QUE DEBEN EXPLICARSE](#6-componentes-que-deben-explicarse)<br>
+[7. CONTROLES MINIMOS ESPERADOS](#7-controles-minimos-esperados)<br>
+[8. LANGSMITH](#8-langsmith)<br>
+[9. ENTREGABLES](#9-entregables)<br>
 [10. CRITERIO PRINCIPAL DE EVALUACION](#10-criterio-principal-de-evaluacion)
 
 ---
